@@ -2,7 +2,6 @@
 <h3 align="center">I'm a computer science and engineering student at PES University!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanbhxg&label=Profile%20views&color=0e75b6&style=flat" alt="shanbhxg" /> </p>
-![Deepti's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanbhxg&show_icons=true&theme=radical)
 
 - 📫 **shanbhxg@gmail.com**
 
